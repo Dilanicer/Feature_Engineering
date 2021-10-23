@@ -12,12 +12,19 @@ The target variable is specified as "Survived";
 
 
 ##Variables##
+
 Survived 
+
 Sex 
+
 Age 
+
 Sibsp 
+
 Parch 
+
 Embarked
+
 Fare 
 
 
